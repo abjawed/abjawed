@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Aquib Jawed, currently working as a Senior Software Engineer at the [Torry Harris Business Solutions](https://www.torryharris.com/). I am a Java developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Aquib Jawed, currently working as a Senior Software Engineer. I am a Java developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-abjawed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abjawed/)](https://www.linkedin.com/in/abjawed/)
 

@@ -27,3 +27,5 @@ I am Jawed, currently working as a Senior Software Engineer. I am a Java develop
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abjawed&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abjawed.abjawed)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ludehsar.ludehsar)

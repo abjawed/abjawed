@@ -22,6 +22,7 @@ I am Jawed, currently working as a Senior Software Engineer. I am a Java develop
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Mulesoft](https://img.shields.io/badge/-Mulesoft-black?style=flat-square&logo=mulesoft)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=abjawed&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abjawed&hide=TeX&layout=compact)

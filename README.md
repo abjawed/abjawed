@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jawed, currently working as a Integration Engineer. I am a Java developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Jawed, currently working as Integration Engineer. I have worked on multiple language and Middleware Integration tools during my carrier like Java, Java Webservice(Soap/Rest), Devops, Mulesoft and Oracle Osb 11g/12C and I love writing clean and maintainable code. I am learning the DataScience using Pyhton. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-abjawed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abjawed/)](https://www.linkedin.com/in/abjawed/)
 

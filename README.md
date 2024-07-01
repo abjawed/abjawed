@@ -1,17 +1,17 @@
 ### Hi there 👋
 
-I am Jawed, currently working as Integration Engineer. I have worked on multiple language and Middleware Integration tools during my carrier like Java, Java Webservice(Soap/Rest), Devops, Mulesoft and Oracle Osb 11g/12C and I love writing clean and maintainable code. I am learning the DataScience using Pyhton. Find out more about me & feel free to connect with me here:
+I am Jawed, an Integration Engineer with extensive experience in various languages and Middleware Integration tools, including Java, Java Webservice (SOAP/REST), DevOps, Mulesoft, and Oracle OSB 11g/12C. I have a passion for writing clean and maintainable code. Currently, I am learning Data Science using Python. Feel free to connect with me here.
 
 [![Linkedin Badge](https://img.shields.io/badge/-abjawed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abjawed/)](https://www.linkedin.com/in/abjawed/)
 
-## ⚡ Technologies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abjawed" alt="abjawed" /></a> </p>
 
-![Java](https://img.shields.io/badge/-JAVA-black?style=flat-square&logo=java)
-![J2EE](https://img.shields.io/badge/-J2EE-black?style=flat-square&logo=J2EE)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+## ⚡ Languages and Tools:
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -24,7 +24,8 @@ I am Jawed, currently working as Integration Engineer. I have worked on multiple
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Mulesoft](https://img.shields.io/badge/-Mulesoft-black?style=flat-square&logo=mulesoft)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=abjawed&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abjawed&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=abjawed&count_private=true&show_icons=true&include_all_commits=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abjawed&" alt="abjawed" /></p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abjawed.abjawed)

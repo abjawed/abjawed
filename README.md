@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jawed, an Integration Engineer with extensive experience in various languages and Middleware Integration tools, including Java, Java Webservice (SOAP/REST), DevOps, Mulesoft, and Oracle OSB 11g/12C. I have a passion for writing clean and maintainable code. Currently, I am learning Data Science using Python. Feel free to connect with me here.
+I am Jawed, Focused and results-oriented Senior DevOps Engineer and Java Backend Developer with 9 years of expertise in designing and implementing scalable, high-performance applications and CI/CD pipelines. Proficient in SOAP/Rest, WSDL, Integration tools/techniques and strong understanding of the Software Development Life Cycle, Continuous Integration, Continuous Deployment, and Continuous Delivery. Skilled at providing comprehensive support and maintenance for clients, developing automation tools and services. Good communicator with a deep passion for technology and ability to work efficiently both individually and in a team. Adept at cloud platforms, containerization, and modern development methodologies and collaborating cross-functional teams and establishing strong relationships with stakeholders to drive user engagement. Feel free to connect with me here.
 
 [![Linkedin Badge](https://img.shields.io/badge/-abjawed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abjawed/)](https://www.linkedin.com/in/abjawed/)
 

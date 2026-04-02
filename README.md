@@ -1,29 +1,151 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Jawed</h1>
 
-I am Jawed, Focused and results-oriented Senior DevOps Engineer and Java Backend Developer with 9 years of expertise in designing and implementing scalable, high-performance applications and CI/CD pipelines. Proficient in SOAP/Rest, WSDL, Integration tools/techniques and strong understanding of the Software Development Life Cycle, Continuous Integration, Continuous Deployment, and Continuous Delivery. Skilled at providing comprehensive support and maintenance for clients, developing automation tools and services. Good communicator with a deep passion for technology and ability to work efficiently both individually and in a team. Adept at cloud platforms, containerization, and modern development methodologies and collaborating cross-functional teams and establishing strong relationships with stakeholders to drive user engagement. Feel free to connect with me here.
+<p align="center">
+  <a href="https://linkedin.com/in/abjawed">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ab.jawed@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-abjawed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abjawed/)](https://www.linkedin.com/in/abjawed/)
+<p align="center">
+  🔗 Enterprise Integration Architect | ☕ Java & Microservices Expert | 🔐 IAM Specialist  
+</p>
 
-## ⚡ Languages and Tools:
+<p align="center">
+  🚀 SOA • Microservices • API Management • DevOps • Cloud
+</p>
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+---
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![Mulesoft](https://img.shields.io/badge/-Mulesoft-black?style=flat-square&logo=mulesoft)
+## 🧠 Professional Summary
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abjawed&hide=TeX&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=abjawed&count_private=true&show_icons=true&include_all_commits=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abjawed&" alt="abjawed" /></p>
+Enterprise Integration Specialist with deep expertise in **SOA (Service-Oriented Architecture)** and modern **Microservices Architecture**.
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abjawed.abjawed)
+✔️ Expertise in **Java, Spring Boot, REST/SOAP Web Services**  
+✔️ Advanced skills in **XML, XSLT, and enterprise data transformation**  
+✔️ Hands-on with **Ping Identity (PingOne, Ping DaVinci)**  
+✔️ Experienced in **Apigee API Management, DevOps, and Cloud environments**  
+✔️ Automation using **Python & Shell scripting**
+✔️ Strong experience in **TIBCO, Oracle Service Bus (OSB), MuleSoft**
+
+---
+
+## 🛠️ Technology Stack
+
+### 🏗️ Architecture & Design
+- SOA (Service-Oriented Architecture)
+- Microservices Architecture
+- Event-Driven Architecture
+- API-Led Connectivity
+
+---
+
+### 🔗 Integration & Middleware
+![TIBCO](https://img.shields.io/badge/TIBCO-FF6A00?style=for-the-badge)
+![Oracle Service Bus](https://img.shields.io/badge/OracleServiceBus-Red?style=for-the-badge)
+![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+---
+
+### ☕ Java & Microservices
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+![SOAP](https://img.shields.io/badge/SOAP-6E4C13?style=for-the-badge)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
+![XSLT](https://img.shields.io/badge/XSLT-8A2BE2?style=for-the-badge)
+
+---
+
+### 🔐 Identity & Access Management (IAM)
+![Ping Identity](https://img.shields.io/badge/PingIdentity-FF6600?style=for-the-badge)
+![PingOne](https://img.shields.io/badge/PingOne-000000?style=for-the-badge)
+![Ping DaVinci](https://img.shields.io/badge/PingDaVinci-6E56CF?style=for-the-badge)
+
+---
+
+### ⚙️ API Management
+![Apigee](https://img.shields.io/badge/Apigee-FF6C37?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+---
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### 🐍 Automation & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+## 🧩 Core Expertise
+
+- 🔗 Enterprise Integration (TIBCO, OSB, MuleSoft)
+- 🏗️ SOA & Microservices Architecture
+- ☕ Java & Spring Boot Development
+- 🔄 XML, XSLT & Data Transformation
+- 🔐 IAM & Identity Orchestration (Ping Identity)
+- 🚀 API Security & Management (Apigee)
+- ⚙️ CI/CD & DevOps (GitHub Actions, GitLab)
+- 🐍 Automation (Python, Shell)
+- ☁️ Cloud & Infrastructure (Docker, Kubernetes, Vagrant)
+
+---
+
+## 📌 Key Projects & Contributions
+
+### 🔹 Enterprise SOA Integration Platform
+> Designed reusable services using SOA principles  
+- 🔗 TIBCO & OSB-based integrations  
+- 🔄 XML/XSLT transformation layer  
+- ⚡ High-performance orchestration  
+
+---
+
+### 🔹 Microservices Migration (TIBCO → Spring Boot)
+> Migrated legacy systems into scalable microservices  
+- ☕ Spring Boot-based services  
+- 🚀 SOAP → REST transformation  
+- ⚙️ Containerized deployments  
+
+---
+
+### 🔹 IAM & Identity Orchestration
+> Secure authentication workflows using Ping Identity  
+- 🔐 SSO, MFA, adaptive authentication  
+
+---
+
+### 🔹 DevOps Pipeline
+> CI/CD automation  
+- ⚙️ GitHub Actions, GitLab, Jenkins  
+- 🚀 Faster deployments  
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abjawed&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  ⚡ "Designing scalable, secure, and modern integration architectures"
+</p>
+
+---
+
+⭐️ From Jawed
+
